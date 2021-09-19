@@ -5,4 +5,4 @@ str = "Python Skills"
 print("Before reversing the string: " + str)
 #Reversing String
 str = str[::-1]                             
-print("After reversing the string: "
+print("After reversing the string: " + str)
