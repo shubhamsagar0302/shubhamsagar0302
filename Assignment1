@@ -1,8 +1,8 @@
-# 1) reverse a String and print it on console "Python Skills" .
+#2) Assign String to x variable in DD-MM-YYYY format extract and print Year from String.
+
+
+x="19-08-2021"
+
+#printing date from string
+print("Printing Only Year Frim String",x[6:])
    
-#Before Reversing String
-str = "Python Skills"
-print("Before reversing the string: " + str)
-#Reversing String
-str = str[::-1]                             
-print("After reversing the string: " + str)
