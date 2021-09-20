@@ -50,7 +50,7 @@ try:
 except(NameError):
     print("name error ")
 
-#indrntation
+#indentation
 
 
 def f():
