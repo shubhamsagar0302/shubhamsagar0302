@@ -1,7 +1,7 @@
 import MySQLdb
 
 try:
-    query="delete from stdinfo  where name='Suvarnalaxmi'"
+    query="delete from stdinfo  where name='Shubham'"
     myconn=MySQLdb.connect(host="localhost",user="root",passwd="",database="studentdb")
     print("execute myconn")
     cur=myconn.cursor()
